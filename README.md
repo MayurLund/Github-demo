@@ -1,12 +1,19 @@
-#**Github demo**
-
-
-***This is just the testing of whatever I have learnt in Github bootcamp.
+#Github demo
+This is just the testing of whatever I have learnt in Github bootcamp.
+***
+I am adding a horizontal line now
+***
+This is just the testing of whatever I have learnt in Github bootcamp.
 
 *This is italics*
+>This a block quote
 
-**I will create a list now**
-##my favourite foods
-*Noodles
-*Manchurian
-*Momos
+[Link of project](Link)
+
+
+**I will create a unorder list now**
+
+*Favourite Food*
+* Noodles
+* Manchurian
+* Momos
